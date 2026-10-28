@@ -4,7 +4,9 @@
 
 # Mi primer sitio web
 
-Una página de presentación para practicar estructura HTML y estilos CSS.
+**El punto de partida de mi recorrido web.**
+
+Una página de presentación sencilla para aplicar HTML y CSS: navegación, sección de bienvenida y llamada a la acción.
 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-0F172A?style=for-the-badge" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1D4ED8?style=for-the-badge" />
@@ -13,6 +15,17 @@ Una página de presentación para practicar estructura HTML y estilos CSS.
 [Código fuente](https://github.com/cristoferpina/mi_sitio_web) &nbsp; / &nbsp; [Incidencias](https://github.com/cristoferpina/mi_sitio_web/issues) &nbsp; / &nbsp; [Perfil](https://github.com/cristoferpina)
 
 </div>
+
+## Una mirada al proyecto
+
+| Qué encontrarás | Por qué explorarlo |
+| --- | --- |
+| El punto de partida de mi recorrido web. | Una página de presentación sencilla para aplicar HTML y CSS: navegación, sección de bienvenida y llamada a la acción. |
+| Trabajo de desarrollo | Fundamentos de estructura web, composición visual y separación entre contenido y estilos. |
+
+**[Explora la página →](index.html)**
+
+
 
 ---
 
